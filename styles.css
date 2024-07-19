@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+	flex-direction: column;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#webcam-container {
+    position: relative;
+    width: 640px;
+    height: 480px;
+	margin-bottom: 20px;
+}
+
+#webCamWindow {
+    border: 1px solid #000;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#movement {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid red;
+    background: rgba(255, 0, 0, 0.3);
+}
