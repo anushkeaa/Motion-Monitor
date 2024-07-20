@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # Motion-Monitor
 This project implements motion detection using JavaScript. It captures video from the user's webcam and detects motion by comparing frames. When motion is detected, it highlights the area of movement on the video feed.
 
@@ -49,10 +52,6 @@ This project implements motion detection using JavaScript. It captures video fro
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Credits
 Implementation by: Anushka Mukherjee. 
