@@ -4,7 +4,6 @@
  * @project        Motion Detection in JS
  * @file           ImageCompare.js
  * @description    Compares two images on pixel level.
- * @author         Benjamin Horn
  * @package        MotionDetector
  * @version        -
  * 
