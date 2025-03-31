@@ -53,7 +53,7 @@ This project implements motion detection using JavaScript. It captures video fro
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
-## Credits
-Implementation by: Anushka Mukherjee. 
+## Contact
+**Email:** [Anushka](anushkeaa@gmail.com)
 
 
